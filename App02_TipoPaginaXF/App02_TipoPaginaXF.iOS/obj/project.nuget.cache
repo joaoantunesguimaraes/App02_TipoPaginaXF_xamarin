@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0a8sEAkpK6SXSyuPd7377T19JyqbOscy5zRZfQMZ/fBHh1y5hWV8ZLtI4vXI1mwMAV5omBYyn0BbLyLZjSDsQ==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.iOS\\App02_TipoPaginaXF.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

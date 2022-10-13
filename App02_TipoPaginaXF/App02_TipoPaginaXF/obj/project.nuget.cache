@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HwSrDM+Lz56PK21hIbL9Q976hXr1oJvs7DHLplMreft9SjhQCp0/qvJnYxeJnB8yRSsPeEXIfdCrT1CjxVfHg==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\meuxamarin\\2019\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF\\App02_TipoPaginaXF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
